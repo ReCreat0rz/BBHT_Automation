@@ -1,5 +1,5 @@
 # BBHT_Automation for Recon
-Bug Bounty Hunting Tools Automation for Recon by rei
+Bug Bounty Hunting Tools Automation for Recon by ReCreat0rz
 
 ****UPDATE**** : 
 1. This automation script is specifically designed for ****MEDIUM SCOPE**** Only !!!
